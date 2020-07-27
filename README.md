@@ -1,6 +1,6 @@
 # 30DiasDeCSS :rocket:
 
-Desafio proposto por Milena Carecho com o objetivo de praticar CSS por 30 dias com início em 20 de julho de 2020.
+Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o objetivo de praticar CSS por 30 dias com início em 20 de julho de 2020.
 
 ## Dia 1 - Ícone de mídias sociais em camada
 
