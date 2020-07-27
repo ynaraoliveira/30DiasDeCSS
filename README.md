@@ -60,3 +60,12 @@ Desafio proposto por Milena Carecho com o objetivo de praticar CSS por 30 dias c
 #### Skills:
 - animation
 - nth-child
+
+## Dia 8 - Coração batendo
+
+![](/demo/day8.gif)
+
+#### Skills:
+- animation
+- transform
+- rotate
