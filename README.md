@@ -69,3 +69,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - animation
 - transform
 - rotate
+
+## Dia 9 - Pêndulo de Newton
+
+![](/demo/day9.gif)
+
+#### Skills:
+- animation
+- nth-child
+- :after
