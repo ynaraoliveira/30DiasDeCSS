@@ -78,3 +78,11 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - animation
 - nth-child
 - :after
+
+## Dia 10 - Animação com texto alternando
+
+![](/demo/day10.gif)
+
+#### Skills:
+- animation
+- ::before
