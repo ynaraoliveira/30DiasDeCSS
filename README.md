@@ -96,3 +96,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - overflow
 - ::before
 - :hover::before
+
+## Dia 12 - Efeito com preenchimento de texto ao passar o mouse
+
+![](/demo/day12.gif)
+
+#### Skills:
+- overflow
+- :before
+- :hover:before
