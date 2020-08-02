@@ -105,3 +105,11 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - overflow
 - :before
 - :hover:before
+
+## Dia 13 - Loading com Efeito
+
+![](/demo/day13.gif)
+
+#### Skills:
+- nth:child
+- animation
