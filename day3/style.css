@@ -18,30 +18,30 @@ section {
 section div {
   position: relative;
   width: 50%;
-  background: #fff;
+  background: #e5dfdf;
   overflow: hidden;
 }
 
 section div:nth-child(1) {
   position: relative;
   width: 50%;
-  background: url(giphy.gif);
+  background-color: #1d4d4f;
   background-size: cover;
   overflow: hidden;
 }
 
 section div:nth-child(1) h1 {
-  color: #fff;
+  color: #6ba8a9;
   left: 100%;
 }
 
 section div h1 {
   position: absolute;
   white-space: nowrap;
-  font-size: 10rem;
+  font-size: 7rem;
   line-height: 100vh;
-  color: #000;
-  animation: animate 20s linear infinite;
+  color: #357376;
+  animation: animate 15s linear infinite;
 }
 
 @keyframes animate {
