@@ -121,3 +121,11 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - webkit
 - animation
+
+## Dia 15 - Inclinação de texto
+
+![](/demo/day15.gif)
+
+#### Skills:
+- text-shadow
+- animation
