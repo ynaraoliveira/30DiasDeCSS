@@ -1,9 +1,6 @@
-* {
+body {
   margin: 0;
   padding: 0;
-}
-
-body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -73,11 +70,11 @@ ul li:hover span:nth-child(1) {
 }
 
 ul li:nth-child(1):hover span {
-  background: #3b5999;
+  background: #3b5998;
 }
 
 ul li:nth-child(2):hover span {
-  background: #55acee;
+  background: #00acee;
 }
 
 ul li:nth-child(3):hover span {
@@ -85,9 +82,9 @@ ul li:nth-child(3):hover span {
 }
 
 ul li:nth-child(4):hover span {
-  background: #0077b5;
+  background: #0e76a8;
 }
 
 ul li:nth-child(5):hover span {
-  background: #e4405f;
+  background: linear-gradient(60deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
