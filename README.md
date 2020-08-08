@@ -17,7 +17,7 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 
 #### Skills:
 - transform
-- :before
+- ::before
 
 ## Dia 3 - Mudança de cor de texto quando entra em outra div
 
@@ -33,8 +33,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 ![](/demo/day4.gif)
 
 #### Skills:
-- :: before
-- :: after
+- ::before
+- ::after
 - transition
 - hover
 
@@ -78,7 +78,7 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - animation
 - nth-child
-- :after
+- ::after
 
 ## Dia 10 - Animação com texto alternando
 
@@ -104,7 +104,7 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 
 #### Skills:
 - overflow
-- :before
+- ::before
 - :hover:before
 
 ## Dia 13 - Loading com Efeito
@@ -136,6 +136,6 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 ![](/demo/day16.gif)
 
 #### Skills:
-- :before
+- ::before
 - transform
 - translate
