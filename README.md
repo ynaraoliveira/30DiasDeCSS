@@ -8,7 +8,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 
 #### Skills:
 - animation
-- span / layer
+- span 
+- layer
 
 ## Dia 2 - Loader animado
 
