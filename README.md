@@ -139,3 +139,11 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - ::before
 - transform
 - translate
+
+## Dia 17 - Loader animado
+
+![](/demo/day17.gif)
+
+#### Skills:
+- transform
+- rotate
