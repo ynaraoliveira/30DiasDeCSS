@@ -147,3 +147,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - transform
 - rotate
+
+## Dia 18 - Texto esfumaçado
+
+![](/demo/day18.gif)
+
+#### Skills:
+- transition-delay
+- hover
+- filter
