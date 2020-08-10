@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f7f7ee;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 140px;
+  width: 140px;
+}
+
+.container div {
+  height: 70px;
+  width: 70px;
+  background: #fb7813;
+  float: left;
+  animation: animate 1s linear infinite;
+}
+
+.container div:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.container div:nth-child(2) {
+  animation-delay: 0.25s;
+}
+
+.container div:nth-child(4) {
+  animation-delay: 0.5s;
+}
+
+.container div:nth-child(3) {
+  animation-delay: 0.75s;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

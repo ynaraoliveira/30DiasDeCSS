@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #3c99dc;
+}
+
+.icon {
+  color: #fff;
+  animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotateX(0) rotateY(0);
+  }
+
+  50% {
+    transform: rotateX(0) rotateY(180deg);
+  }
+
+  100% {
+    transform: rotateX(180deg) rotateY(180deg);
+  }
+
+}

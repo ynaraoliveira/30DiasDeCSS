@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ff5151;
+}
+
+h1 {
+  font-family: 'Mulish', sans-serif;
+  text-transform: uppercase;
+  font-size: 4rem;
+  color: #fff;
+  text-shadow: 5px 5px 0px rgba(0,0,0,0.2);
+  animation: tilt 3s linear infinite;
+}
+
+@keyframes tilt {
+  0% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(15deg);
+  }
+  80% {
+    transform: rotate(-15deg);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
