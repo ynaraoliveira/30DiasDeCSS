@@ -156,3 +156,14 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transition-delay
 - hover
 - filter
+
+## Dia 19 - Animação com partículas brilhantes
+
+![](/demo/day19.gif)
+
+#### Skills:
+- var
+- hue-rotate
+- animation
+
+#### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=ajZjivqBdcY)
