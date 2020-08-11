@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #333333;
+    overflow: hidden;
+}
+
+.glow {
+    position: relative;
+    min-width: 750px;
+    height: 750px;
+    margin: -150px;
+    transform-origin: right;
+    animation: color 4s linear infinite;
+}
+
+@keyframes color {
+    0% {
+        filter: hue-rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        filter: hue-rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.glow:nth-child(even) {
+    transform-origin: left;
+}
+
+.glow span {
+    position: absolute;
+    top: calc(80px * var(--i));
+    bottom: calc(80px * var(--i));
+    left: calc(80px * var(--i));
+    right: calc(80px * var(--i));
+}
+
+.glow span::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -8px;
+    width: 15px;
+    height: 15px;
+    background: #f00;
+    border-radius: 50%;
+}
+
+.glow span:nth-child(1)::before {
+    background: rgb(134, 255, 0);
+    box-shadow: 0 0 20px rgb(134, 255, 0),
+        0 0 40px rgb(134, 255, 0),
+        0 0 60px rgb(134, 255, 0),
+        0 0 80px rgb(134, 255, 0),
+        0 0 0 8px rgba(134, 255, 0, 0.1);
+}
+
+.glow span:nth-child(2)::before {
+    background: rgb(255, 214, 0);
+    box-shadow: 0 0 20px rgb(255, 214, 0),
+        0 0 40px rgb(255, 214, 0),
+        0 0 60px rgb(255, 214, 0),
+        0 0 80px rgb(255, 214, 0),
+        0 0 0 8px rgba(255, 214, 0, 0.1);
+}
+
+.glow span:nth-child(3)::before {
+    background: rgb(0, 226, 255);
+    box-shadow: 0 0 20px rgb(0, 226, 255),
+        0 0 40px rgb(0, 226, 255),
+        0 0 60px rgb(0, 226, 255),
+        0 0 80px rgb(0, 226, 255),
+        0 0 0 8px rgba(0, 226, 255, 0.1);
+}
+
+.glow span:nth-child(1) {
+    animation: shine 8s alternate infinite;
+}
+
+.glow span:nth-child(2) {
+    animation: shine-reverse 3s alternate infinite;
+}
+
+.glow span:nth-child(3) {
+    animation: shine-reverse 6s alternate infinite;
+}
+
+@keyframes shine {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes shine-reverse {
+    0% {
+        transform: rotate(360deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
