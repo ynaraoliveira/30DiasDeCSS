@@ -11,6 +11,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - span 
 - layer
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day1)
+
 ## Dia 2 - Loader animado
 
 ![](/demo/day2.gif)
@@ -166,4 +168,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - hue-rotate
 - animation
 
-#### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=ajZjivqBdcY)
+##### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=ajZjivqBdcY)
+
+## Dia 20 - Botão com efeito
+
+![](/demo/day20.gif)
+
+#### Skills:
+- ::before
+- transform
