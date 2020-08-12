@@ -21,6 +21,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transform
 - ::before
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day2)
+
 ## Dia 3 - Mudança de cor de texto quando entra em outra div
 
 ![](/demo/day3.gif)
@@ -29,6 +31,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - nth-child
 - animation
 - translateX
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day3)
 
 ## Dia 4 - Botão com efeito
 
@@ -40,6 +44,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transition
 - hover
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day4)
+
 ## Dia 5 - Efeito pulsar
 
 ![](/demo/day5.gif)
@@ -47,6 +53,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - animation
 - box-shadow
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day5)
 
 ## Dia 6 - Efeito lightning text
 
@@ -56,6 +64,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - animation
 - nth-child
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day6)
+
 ## Dia 7 - Preloader animado
 
 ![](/demo/day7.gif)
@@ -63,6 +73,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - animation
 - nth-child
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day7)
 
 ## Dia 8 - Coração batendo
 
@@ -73,6 +85,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transform
 - rotate
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day8)
+
 ## Dia 9 - Pêndulo de Newton
 
 ![](/demo/day9.gif)
@@ -82,6 +96,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - nth-child
 - ::after
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day9)
+
 ## Dia 10 - Animação com texto alternando
 
 ![](/demo/day10.gif)
@@ -89,6 +105,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - animation
 - ::before
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day10)
 
 ## Dia 11 - Botão com efeito hover
 
@@ -100,6 +118,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - ::before
 - :hover::before
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day11)
+
 ## Dia 12 - Efeito com preenchimento de texto ao passar o mouse
 
 ![](/demo/day12.gif)
@@ -109,6 +129,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - ::before
 - :hover:before
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day12)
+
 ## Dia 13 - Loading com Efeito
 
 ![](/demo/day13.gif)
@@ -116,6 +138,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - nth:child
 - animation
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day13)
 
 ## Dia 14 - Texto com animação de fundo
 
@@ -125,6 +149,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - webkit
 - animation
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day14)
+
 ## Dia 15 - Inclinação de texto
 
 ![](/demo/day15.gif)
@@ -132,6 +158,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - text-shadow
 - animation
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day15)
 
 ## Dia 16 - Botão com efeito
 
@@ -142,6 +170,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transform
 - translate
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day16)
+
 ## Dia 17 - Loader animado
 
 ![](/demo/day17.gif)
@@ -149,6 +179,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - transform
 - rotate
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day17)
 
 ## Dia 18 - Texto esfumaçado
 
@@ -159,6 +191,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - hover
 - filter
 
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day18)
+
 ## Dia 19 - Animação com partículas brilhantes
 
 ![](/demo/day19.gif)
@@ -167,6 +201,8 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - var
 - hue-rotate
 - animation
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day19)
 
 ##### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=ajZjivqBdcY)
 
@@ -177,3 +213,5 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 #### Skills:
 - ::before
 - transform
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day20)
