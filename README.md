@@ -215,3 +215,13 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - transform
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day20)
+
+## Dia 21 - Esferas quicando
+
+![](/demo/day21.gif)
+
+#### Skills:
+- :nth-child
+- animation
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day21)
