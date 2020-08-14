@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(253, 227, 167, 0.8);
+}
+
+.ball {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  margin: 0 15px;
+  animation: bounce 1s linear infinite;
+  position: relative;
+}
+
+.ball:nth-child(1) {
+  animation-delay: 0s;
+  background-color: rgba(211, 84, 0, 1);
+}
+
+.ball:nth-child(2) {
+  animation-delay: 0.5s;
+  background-color: rgba(249, 105, 14, 1);
+}
+
+.ball:nth-child(3) {
+  animation-delay: 0.8s;
+  background-color: rgba(242, 121, 53, 1);
+}
+
+.ball:nth-child(4) {
+  animation-delay: 1.2s;
+  background-color: rgba(243, 156, 18, 1);
+}
+
+.ball:nth-child(5) {
+  animation-delay: 1.5s;
+  background-color: rgba(249, 191, 59, 1);
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-150px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
