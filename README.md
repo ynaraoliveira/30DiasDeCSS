@@ -4,7 +4,7 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 
 ## Dia 1 - Ícone de mídias sociais em camada
 
-![](/demo/day1.gif)
+![](./demo/day1.gif)
 
 #### Skills:
 - animation
