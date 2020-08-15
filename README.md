@@ -236,4 +236,4 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day22)
 
-##### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=mrTwZmdfRVE&t=36s)
+##### Material de apoio: [DarkCode](https://www.youtube.com/watch?v=mrTwZmdfRVE&t=36s)
