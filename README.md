@@ -225,3 +225,15 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - animation
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day21)
+
+## Dia 22 - Ícones com efeito
+
+![](/demo/day22.gif)
+
+#### Skills:
+- ::before
+- ::after
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day22)
+
+##### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=mrTwZmdfRVE&t=36s)
