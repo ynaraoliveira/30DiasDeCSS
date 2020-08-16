@@ -237,3 +237,13 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day22)
 
 ##### Material de apoio: [DarkCode](https://www.youtube.com/watch?v=mrTwZmdfRVE&t=36s)
+
+## Dia 23 - Botão com efeito hover
+
+![](/demo/day23.gif)
+
+#### Skills:
+- :hover
+- transform
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day23)
