@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+button {
+  font-family: 'Pangolin', cursive;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #000;
+  width: 270px;
+  height: 70px;
+  border: 1px solid #fff;
+}
+
+button:hover {
+  animation: shake 0.2s linear 2;
+  color: #000;
+  background: #fff;
+}
+
+@keyframes shake {
+  0% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(-8deg);
+  }
+  50% {
+    transform: rotate(8deg);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
