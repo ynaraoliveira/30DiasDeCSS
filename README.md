@@ -259,3 +259,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day24)
 
 ##### Material de apoio: [Online Tutorials](https://www.youtube.com/watch?v=m-8_mj5NF1E&t)
+
+## Dia 25 - Efeito hover
+
+![](/demo/day25.gif)
+
+#### Skills:
+- ::before
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day25)
