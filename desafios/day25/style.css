@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ul li {
+  list-style: none;
+  margin: 0 15px;
+}
+
+ul li a {
+  position: relative;
+  display: block;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  background: #333;
+  border-radius: 50%;
+  font-size: 30px;
+  color: #666;
+  transition: 0.5s;
+}
+
+ul li a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  transition: 0.5s;
+  transform: scale(0.9);
+  z-index: -1;
+}
+
+.one::before {
+  background: #158467;
+}
+
+.one:hover::before {
+  box-shadow: 0 0 15px #158467;
+}
+
+.one:hover {
+  color: #158467;
+  box-shadow: 0 0 5px #158467;
+  text-shadow: 0 0 5px #158467;
+}
+
+.two::before {
+  background: #ff8ba7;
+}
+
+.two:hover::before {
+  box-shadow: 0 0 15px #ff8ba7;
+}
+
+.two:hover {
+  color: #ff8ba7;
+  box-shadow: 0 0 5px #ff8ba7;
+  text-shadow: 0 0 5px #ff8ba7;
+}
+
+.three::before {
+  background: #318fb5;
+}
+
+.three:hover::before {
+  box-shadow: 0 0 15px #318fb5;
+}
+
+.three:hover {
+  color: #318fb5;
+  box-shadow: 0 0 5px #318fb5;
+  text-shadow: 0 0 5px #318fb5;
+}
+
+.four::before {
+  background: #f3c623;
+}
+
+.four:hover::before {
+  box-shadow: 0 0 15px #f3c623;
+}
+
+.four:hover {
+  color: #f3c623;
+  box-shadow: 0 0 5px #f3c623;
+  text-shadow: 0 0 5px #f3c623;
+}
+
+ul li a:hover::before {
+  transform: scale(1.1);
+}
