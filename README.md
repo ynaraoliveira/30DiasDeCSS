@@ -268,3 +268,15 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - ::before
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day25)
+
+## Dia 26 - Hexágono
+
+![](/demo/day26.gif)
+
+#### Skills:
+- ::before
+- ::after
+- transform
+- calc
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day26)
