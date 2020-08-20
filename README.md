@@ -280,3 +280,13 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - calc
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day26)
+
+## Dia 27 - Efeito pulsar
+
+![](/demo/day27.gif)
+
+#### Skills:
+- ::before
+- ::after
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day27)
