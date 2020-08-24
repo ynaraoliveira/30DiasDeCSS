@@ -290,3 +290,12 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - ::after
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day27)
+
+## Dia 28 - Background mudando de cor
+
+![](/demo/day28.gif)
+
+#### Skills:
+- animation
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day28)
