@@ -299,3 +299,16 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 - animation
 
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day28)
+
+## Dia 29 - Menu responsivo usando media queries
+
+![](/demo/day29.gif)
+
+#### Skills:
+- @media
+- :checked
+- display: none
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day29)
+
+##### Material de apoio: [Caler Edwards](https://www.youtube.com/watch?v=xMTs8tAapnQ&ab_channel=CalerEdwards)
