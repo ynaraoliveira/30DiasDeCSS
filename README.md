@@ -312,3 +312,15 @@ Desafio proposto por [Milena Carecho](https://github.com/MilenaCarecho) com o ob
 ##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day29)
 
 ##### Material de apoio: [Caler Edwards](https://www.youtube.com/watch?v=xMTs8tAapnQ&ab_channel=CalerEdwards)
+
+## Dia 30 - Fogos de artifício
+
+![](/demo/day30.gif)
+
+#### Skills:
+- nth:child
+- ::before
+
+##### [Código](https://github.com/ynaraoliveira/30DiasDeCSS/tree/master/desafios/day30)
+
+##### Material de apoio: [MinzCode](https://www.youtube.com/watch?v=K4K7HNavK4U&ab_channel=MinzCode)
